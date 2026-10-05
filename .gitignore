@@ -1,0 +1,7 @@
+.source-lyra/
+build/
+generated/
+lyra.exe
+lyra-1.0.0.exe
+*.res
+
